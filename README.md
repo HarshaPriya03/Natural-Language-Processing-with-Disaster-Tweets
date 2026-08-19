@@ -2,6 +2,8 @@
 
 Kaggle competition: [nlp-getting-started](https://www.kaggle.com/competitions/nlp-getting-started)
 
+Kaggle notebook (BERTweet run): [usingbertweet](https://www.kaggle.com/code/putsalaharshapriya/usingbertweet?scriptVersionId=343445966)
+
 Binary classification of tweets as referring to a real disaster (`1`) or not (`0`).
 
 ## Project Log
